@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891153545290",
+    "project_id": "awarespace-44601",
+    "storage_bucket": "awarespace-44601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891153545290:android:17c656a2591ff413beceb3",
+        "android_client_info": {
+          "package_name": "com.sudheer.aware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAE7KuSeF5nZ9J9xlqFPhfXii1e4hWgq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
